@@ -24,12 +24,5 @@
   -->
   
   <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="AeE HD">AeE HD</channel>
-  <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMCᴴᴰ">AMCᴴᴰ</channel>
-   <channel update="i" site="clarotv.com.br.EK" site_id="407##animal_planet" xmltv_id="Animal Planetᴴᴰ">Animal Planetᴴᴰ</channel>
-    <channel update="i" site="netcombo.com.br" site_id="407" xmltv_id="ANIMAL PLANET 4K">ANIMAL PLANET 4K</channel>
-	<channel update="i" site="netcombo.com.br" site_id="1073" xmltv_id="Arte 1ᴴᴰ">Arte 1ᴴᴰ</channel>
-	<channel update="i" site="clarotv.com.br.EK" site_id="482##axn" xmltv_id="AXNᴴᴰ">AXNᴴᴰ</channel>
-	  <channel update="i" site="netcombo.com.br" site_id="932" xmltv_id="BabyTV SD">BabyTV SD</channel>
-	  <channel update="i" site="clarotv.com.br.EK" site_id="2247##band" xmltv_id="Bandeirantes SPᴴᴰ">Bandeirantes SPᴴᴰ</channel>
-	  <channel update="i" site="netcombo.com.br" site_id="545" xmltv_id="BAND 4K">BAND 4K</channel>
+ 
 </settings>
