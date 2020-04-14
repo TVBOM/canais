@@ -23,7 +23,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
   
-  <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="A&Eᴴᴰ">A&Eᴴᴰ</channel>
+  <channel update="i" site="meuguia.tv" site_id="canal/MDO" xmltv_id="AeE HD">AeE HD</channel>
   <channel update="i" site="meuguia.tv" site_id="canal/MGM" xmltv_id="AMCᴴᴰ">AMCᴴᴰ</channel>
    <channel update="i" site="clarotv.com.br.EK" site_id="407##animal_planet" xmltv_id="Animal Planetᴴᴰ">Animal Planetᴴᴰ</channel>
     <channel update="i" site="netcombo.com.br" site_id="407" xmltv_id="ANIMAL PLANET 4K">ANIMAL PLANET 4K</channel>
