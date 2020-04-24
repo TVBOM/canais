@@ -3,7 +3,7 @@
 http://psrv.io:80/806246644520/blendediptv.me/28064
 #EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
 http://psrv.io:80/806246644520/blendediptv.me/18505
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Futura HD
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Futura_logo_2007sec_2011main.png/revision/latest/scale-to-width-down/340?cb=20200229231754" group-title="Canais | Abertos",Futura HD
 http://psrv.io:80/806246644520/blendediptv.me/28198
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/Rede_Minas.png/revision/latest/scale-to-width-down/546?cb=20170402002015" group-title="Canais | REDE MINAS",REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8
@@ -33,7 +33,7 @@ http://psrv.io:80/806246644520/blendediptv.me/22151
 http://psrv.io:80/806246644520/blendediptv.me/22150
 #EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerangᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25317
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL 26ᴴᴰ
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/LogoCanal26Argentina2018.png/revision/latest/scale-to-width-down/340?cb=20180309050217" group-title="Canais | Internacionais",CANAL 26ᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/26427
 #EXTINF:-1 tvg-logo="http://z4.vc/bUk" group-title="Canais | Filmes e Séries",Canal Brasilᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25316
@@ -45,7 +45,7 @@ http://psrv.io:80/806246644520/blendediptv.me/25314
 http://psrv.io:80/806246644520/blendediptv.me/26408
 #EXTINF:-1 tvg-logo="http://z4.vc/i31" group-title="Canais | Filmes e Séries",Cinemaxᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25313
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais | Internacionais",CNN INTERNACIONAL SD
 http://psrv.io:80/806246644520/blendediptv.me/26438
 #EXTINF:-1 tvg-logo="http://z4.vc/na3" group-title="Canais | Esportes",Combateᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25312
@@ -71,7 +71,7 @@ http://psrv.io:80/806246644520/blendediptv.me/22131
 http://psrv.io:80/806246644520/blendediptv.me/22130
 #EXTINF:-1 tvg-logo="http://z4.vc/rgy" group-title="Canais | Variedades",Discovery Food Networkᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22198
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery HGTVᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg" group-title="Canais | Documentários",Discovery HGTVᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22203
 #EXTINF:-1 tvg-logo="http://z4.vc/vS4" group-title="Canais | Variedades",ID: Investigacao Discoveryᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22187
@@ -81,7 +81,7 @@ http://psrv.io:80/806246644520/blendediptv.me/22128
 http://psrv.io:80/806246644520/blendediptv.me/18631
 #EXTINF:-1 tvg-logo="http://z4.vc/prI" group-title="Canais | Documentários",H2 HD
 http://psrv.io:80/806246644520/blendediptv.me/18643
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Smithsonian FHD
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/smithsonian-logo.png" group-title="Canais | Documentários",Smithsonian FHD
 http://psrv.io:80/806246644520/blendediptv.me/26828
 #EXTINF:-1 tvg-logo="http://z4.vc/SHx" group-title="Canais | Documentários",TruTV HD
 http://psrv.io:80/806246644520/blendediptv.me/18522
@@ -91,9 +91,9 @@ http://psrv.io:80/806246644520/blendediptv.me/22147
 http://psrv.io:80/806246644520/blendediptv.me/22146
 #EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
 http://psrv.io:80/806246644520/blendediptv.me/22321
-#EXTINF:-1 tvg-logo="http://z4.vc/L5h" group-title="Canais | Variedades",Dog TVᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DOGTV.png" group-title="Canais | Variedades",Dog TVᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/28001
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",DW ALEMANHA SD
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="Canais | Internacionais",DW ALEMANHA SD
 http://psrv.io:80/806246644520/blendediptv.me/26429
 #EXTINF:-1 tvg-logo="http://z4.vc/HbJ" group-title="Canais | Variedades",E!ᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22145
@@ -105,11 +105,11 @@ http://psrv.io:80/806246644520/blendediptv.me/25237
 http://psrv.io:80/806246644520/blendediptv.me/25309
 #EXTINF:-1 tvg-logo="http://z4.vc/2Db" group-title="Canais | Esportes",ESPN Extraᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25308
-#EXTINF:-1 tvg-logo="http://z4.vc/IIo" group-title="Canais | 4K",ESPN 4K
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Canais | 4K",ESPN 4K
 http://psrv.io:80/806246644520/blendediptv.me/27130
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Euro Channelᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.courtsdevant.com/IMG/png/logo_eurochannel-blue.png" group-title="Canais | Internacionais",Euro Channelᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/28400
-#EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Canais | Variedades",Film & Arts SD
 http://psrv.io:80/806246644520/blendediptv.me/18497
 #EXTINF:-1 tvg-logo="http://z4.vc/ILy" group-title="Canais | Variedades",Fish TVᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22199
@@ -175,13 +175,13 @@ http://psrv.io:80/806246644520/blendediptv.me/22191
 http://psrv.io:80/806246644520/blendediptv.me/22140
 #EXTINF:-1 tvg-logo="http://z4.vc/1lN" group-title="Canais | HBO",HBO Signatureᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22190
-#EXTINF:-1 tvg-logo="http://z4.vc/cmn" group-title="Canais | Filmes e Séries", HBO Mundiᴴᴰ
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png" group-title="Canais | Filmes e Séries", HBO Mundiᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22185
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO POPᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="Canais | HBO",HBO POPᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/45150
-#EXTINF:-1 tvg-logo="http://z4.vc/fwU" group-title="Canais | Filmes e Séries",Xtreme HD
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="Canais | Filmes e Séries", HBO Xtreme HD
 http://psrv.io:80/806246644520/blendediptv.me/18621
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",LOVE NATURALᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png" group-title="Canais | Documentários",LOVE NATURALᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/26697
 #EXTINF:-1 tvg-logo="http://z4.vc/zPy" group-title="Canais | Filmes e Séries",Megapixᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22137
@@ -193,7 +193,7 @@ http://psrv.io:80/806246644520/blendediptv.me/22183
 http://psrv.io:80/806246644520/blendediptv.me/22182
 #EXTINF:-1 tvg-logo="http://z4.vc/2VC" group-title="Canais | 4K",MULTISHOW 4K
 http://psrv.io:80/806246644520/blendediptv.me/26191
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Travel Box Brasilᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Canais | Variedades",Travel Box Brasilᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25217
 #EXTINF:-1 tvg-logo="http://z4.vc/odD" group-title="Canais | Variedades",Music Box Brasil HD
 http://psrv.io:80/806246644520/blendediptv.me/18611
@@ -229,7 +229,7 @@ http://psrv.io:80/806246644520/blendediptv.me/22173
 http://psrv.io:80/806246644520/blendediptv.me/22172
 #EXTINF:-1 tvg-logo="http://z4.vc/zwc" group-title="Canais | Premiere",Premiere 7ᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/22171
-#EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",CNN BRASIL 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Canais | Premiere",CNN BRASIL 
 http://psrv.io:80/806246644520/blendediptv.me/28063
 #EXTINF:-1 tvg-logo="http://z4.vc/s1i" group-title="Canais | Notícias",Record Newsᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25204
@@ -247,7 +247,7 @@ http://psrv.io:80/806246644520/blendediptv.me/18751
 http://psrv.io:80/806246644520/blendediptv.me/26183
 #EXTINF:-1 tvg-logo="http://z4.vc/Vpq" group-title="Canais | 4K",SBT 4K
 http://psrv.io:80/806246644520/blendediptv.me/26188
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",SIC PORTUGAL SD
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sic.png" group-title="Canais | Internacionais",SIC PORTUGAL SD
 http://psrv.io:80/806246644520/blendediptv.me/26437
 #EXTINF:-1 tvg-logo="http://z4.vc/FM8" group-title="Canais | Filmes e Séries",Sonyᴴᴰ
 http://psrv.io:80/806246644520/blendediptv.me/25315
