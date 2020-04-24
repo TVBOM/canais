@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",CLARO TV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/claro-logo-8.png" group-title="Canais | Premiere",CLARO TV
 http://psrv.io:80/806246644520/blendediptv.me/28064
 #EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
 http://psrv.io:80/806246644520/blendediptv.me/18505
