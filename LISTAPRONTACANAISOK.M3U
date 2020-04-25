@@ -9,6 +9,8 @@ http://psrv.io:80/806246644520/blendediptv.me/28198
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/Vfq" group-title="Canais | Documentários",Arte 1 HD
 http://psrv.io:80/806246644520/blendediptv.me/27884
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! ALTERNATIVO" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title=" Canais | Alternativos H265",CURTA! ALTERNATIVO
+http://udq.me:80/live/jubRb/nbsHW/13360.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
 http://psrv.io:80/806246644520/blendediptv.me/18858
 #EXTINF:-1 tvg-logo="http://z4.vc/GcF" group-title="Canais | Filmes e Séries",AMCᴴᴰ
@@ -327,6 +329,10 @@ http://udq.me:80/live/jubRb/nbsHW/3914.m3u8
 http://udq.me:80/live/jubRb/nbsHW/7062.m3u8
 #EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA FHD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424" group-title="Canais | Abertos",FUTURA FHD
 http://udq.me:80/live/jubRb/nbsHW/13194.m3u8
+#EXTINF:-1 tvg-id="CancaoNova" tvg-name="CANÇÃO NOVA HD ALTERNATIVO" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title=" Canais | Alternativos H265",CANÇÃO NOVA HD ALTERNATIVO
+http://udq.me:80/live/jubRb/nbsHW/13367.m3u8
+#EXTINF:-1 tvg-id="RedeVida" tvg-name="REDE VIDA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/rede-vida-logo.png" group-title="Canais | Religiosos",REDE VIDA HD
+http://udq.me:80/live/jubRb/nbsHW/12968.m3u8
 
 
 
