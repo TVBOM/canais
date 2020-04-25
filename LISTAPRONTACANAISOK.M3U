@@ -119,6 +119,8 @@ http://psrv.io:80/806246644520/blendediptv.me/22144
 http://psrv.io:80/806246644520/blendediptv.me/22143
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | Filmes e Séries",Fox HD
 http://psrv.io:80/806246644520/blendediptv.me/18779
+#EXTINF:-1 tvg-logo="http://z4.vc/mPu" group-title="Canais | Esportes",Fox HD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxhd/video.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/EsS" group-title="Canais | Variedades",Fox Life HD
 http://psrv.io:80/806246644520/blendediptv.me/18833
 #EXTINF:-1 tvg-logo="http://z4.vc/TBI" group-title="Canais | Filmes e Séries",FXᴴᴰ
