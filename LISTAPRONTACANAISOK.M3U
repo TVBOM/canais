@@ -319,7 +319,20 @@ http://psrv.io:80/806246644520/blendediptv.me/48319
 http://psrv.io:80/806246644520/blendediptv.me/48320
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Rai Gulp
 http://psrv.io:80/806246644520/blendediptv.me/48323
-
+EXTINF:-1 tvg-id="AMC" tvg-name="AMC H265" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Canais | H265",AMC H265
+http://udq.me:80/live/jubRb/nbsHW/9276.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO MINAS HD
+http://udq.me:80/live/jubRb/nbsHW/1574.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/1200px-FOX_wordmark.png" group-title="Canais | H265",FOX H265
+http://udq.me:80/live/jubRb/nbsHW/1228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title=" Canais | Globo",GLOBO INTER TV DOS VALES FHD
+http://udq.me:80/live/jubRb/nbsHW/3914.m3u8
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="DISNEY XD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png " group-title="Canais | H265",DISNEY XD H265
+http://udq.me:80/live/jubRb/nbsHW/13731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="Canais | H265",FASHION TV H265
+http://udq.me:80/live/jubRb/nbsHW/13695.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA H265" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424 " group-title="Canais | H265",FUTURA H265
+http://udq.me:80/live/jubRb/nbsHW/1322.m3u8
 
 
 
